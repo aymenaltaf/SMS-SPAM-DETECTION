@@ -57,6 +57,3 @@ Download the dataset from [Kaggle](https://www.kaggle.com/datasets/uciml/sms-spa
 
 ## Author
 Aymen Altaf
-
-## License
-This project is intended for educational purposes. Please check the dataset's license before redistributing the dataset.
